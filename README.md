@@ -1,10 +1,10 @@
-# One-Word Business Domain Names Across 506 TLDs (236,997)
+# One-Word Business Domain Names Across 506 TLDs (238,271)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-236%2C997%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-238%2C271%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **236,997 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **238,271 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 236,997 domains · **Median ask:** $638.94 · **High-demand under $2,500:** 684
+**Public extract:** 1,000 rows · **Live catalog:** 238,271 domains · **Median ask:** $635.88 · **High-demand under $2,500:** 684
 
 **Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/business`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| and.ltda         | available | $34.99     | $34.99        | high           | medium | 3      | namesilo                                                |
-| firm.marketing   | resell    | $9.99      | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
-| and.industries   | premium   | $118.80    | $118.80       | high           | medium | 3      | namesilo                                                |
-| tax.enterprises  | available | $5.99      | —             | high           | medium | 3      | name.com                                                |
-| stock.co         | resell    | $345,000   | $48.99        | medium         | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| and.sarl         | premium   | $78.54     | $78.54        | high           | medium | 3      | namesilo                                                |
-| desk.cash        | available | $17.99     | —             | high           | low    | 4      | name.com                                                |
-| buying.co        | resell    | $22,505.50 | —             | high           | low    | 6      | GoDaddy.com, LLC                                        |
-| and.srl          | premium   | $54.28     | $30.68        | high           | medium | 3      | namesilo                                                |
-| desk.enterprises | available | $5.99      | —             | high           | low    | 4      | name.com                                                |
-| logistics.co     | resell    | $23,000    | $48.99        | medium         | high   | 9      | InternetX GmbH                                          |
-| out.industries   | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                                |
-| desk.financial   | available | $29.99     | —             | high           | low    | 4      | name.com                                                |
-| ceo.co           | resell    | —          | —             | high           | high   | 3      | NameCheap, Inc.                                         |
-| tax.holdings     | premium   | $242       | $242          | high           | medium | 3      | namesilo                                                |
-| desk.gmbh        | available | $45.99     | $45.99        | high           | low    | 4      | namesilo                                                |
-| tax.co           | resell    | —          | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
-| tax.industries   | premium   | $118.80    | $118.80       | high           | medium | 3      | namesilo                                                |
-| desk.holdings    | available | $64.99     | $64.99        | high           | low    | 4      | namesilo                                                |
-| tax.ltd          | resell    | —          | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| desk.new         | available | $549.99   | —             | high           | low    | 4      | name.com                                            |
+| fund.co          | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
+| firm.co          | premium   | $5,175    | $5,175        | high           | low    | 4      | namesilo                                            |
+| firm.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                                            |
+| fund.management  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                         |
+| firm.llc         | premium   | $2,500    | —             | high           | low    | 4      | name.com                                            |
+| firm.gmbh        | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                                            |
+| fund.network     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                         |
+| firm.ltda        | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo                                            |
+| firm.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                            |
+| unit.bot         | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                                        |
+| logo.red         | premium   | $394.44   | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| firm.industries  | available | $17.49    | —             | high           | low    | 4      | name.com                                            |
+| brand.coupons    | resell    | —         | —             | medium         | medium | 5      | Sav.com, LLC - 7                                    |
+| team.page        | premium   | $623.75   | —             | high           | medium | 4      | name.com                                            |
+| firm.limited     | available | $14.99    | —             | high           | low    | 4      | name.com                                            |
+| buyer.finance    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                         |
+| unit.shop        | premium   | $625      | —             | high           | low    | 4      | name.com                                            |
+| firm.sarl        | available | $6.99     | $6.99         | high           | low    | 4      | namesilo                                            |
+| chief.co         | resell    | —         | —             | high           | high   | 5      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 236,997 live domains                       |
+| 1,000-row public sample | 238,271 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 684 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
