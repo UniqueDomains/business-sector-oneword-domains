@@ -16,7 +16,7 @@ These are one-word domain names tied to business, spanning 506 TLDs and 234,460 
 
 **Public extract:** 1,000 rows · **Live catalog:** 250,339 domains · **Median ask:** $609.96 · **High-demand under $2,500:** 711
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/business`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
