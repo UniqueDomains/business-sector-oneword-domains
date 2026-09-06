@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| unit.bargains      | available | $14.98    | $37.98        | medium         | low    | 4      | namecheap                                               |
+| team.moi           | available | $39.99    | —             | high           | medium | 4      | name.com                                                |
 | buy.ltd            | resell    | —         | —             | medium         | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | deal.shop          | premium   | $12,500   | —             | medium         | low    | 4      | name.com                                                |
-| unit.engineering   | available | $10.48    | $85.98        | medium         | low    | 4      | namecheap                                               |
-| fund.travel        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33                                       |
-| firm.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                                |
+| unit.bargains      | available | $14.98    | $37.98        | medium         | low    | 4      | namecheap                                               |
+| fund.management    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                             |
+| firm.co            | premium   | $5,175    | $5,175        | high           | low    | 4      | namesilo                                                |
 | unit.gmbh          | available | $45.99    | $45.99        | medium         | low    | 4      | namesilo                                                |
-| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC                                  |
-| unit.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                                |
+| fund.network       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                             |
+| firm.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                                |
 | chief.press        | available | $4.99     | $86.99        | high           | low    | 5      | namesilo                                                |
-| buyer.finance      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                             |
-| plans.cash         | premium   | $242      | $242          | medium         | low    | 5      | namesilo                                                |
-| chief.ryukyu       | available | $22.98    | —             | high           | low    | 5      | namecheap                                               |
-| chief.id           | resell    | —         | —             | high           | low    | 5      | PT Media Cloud Indonesia                                |
-| plans.financial    | premium   | $500      | —             | medium         | low    | 5      | name.com                                                |
+| fund.travel        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33                                       |
+| logo.red           | premium   | $394.44   | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | plans.bargains     | available | $21.99    | —             | medium         | low    | 5      | name.com                                                |
-| group.co           | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                        |
-| plans.limited      | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                |
+| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC                                  |
+| team.page          | premium   | $623.75   | —             | high           | medium | 4      | name.com                                                |
+| plans.ceo          | available | $10.19    | $109.99       | medium         | low    | 5      | namesilo                                                |
+| buyer.finance      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                             |
+| unit.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                                |
 | plans.gmbh         | available | $45.99    | $45.99        | medium         | low    | 5      | namesilo                                                |
-| party.recipes      | resell    | —         | —             | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd.             |
+| chief.co           | resell    | —         | —             | high           | high   | 5      | Spaceship, Inc.                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
