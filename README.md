@@ -16,7 +16,7 @@ These are one-word domain names tied to business, spanning 506 TLDs and 234,460 
 
 **Public extract:** 1,000 rows · **Live catalog:** 265,644 domains · **Median ask:** $581.27 · **High-demand under $2,500:** 731
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/sector/business`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| and.ltda         | available | $34.99     | $34.99        | high           | medium | 3      | namesilo                                                |
-| firm.marketing   | resell    | $9.99      | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
-| and.industries   | premium   | $118.80    | $118.80       | high           | medium | 3      | namesilo                                                |
-| tax.enterprises  | available | $5.99      | —             | high           | medium | 3      | name.com                                                |
-| stock.co         | resell    | $345,000   | $48.99        | medium         | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| and.sarl         | premium   | $78.54     | $78.54        | high           | medium | 3      | namesilo                                                |
-| firm.bargains    | available | $21.99     | —             | high           | low    | 4      | name.com                                                |
-| buying.co        | resell    | $22,505.50 | —             | high           | low    | 6      | GoDaddy.com, LLC                                        |
-| and.srl          | premium   | $54.28     | $30.68        | high           | medium | 3      | namesilo                                                |
-| firm.blackfriday | available | $114.99    | $114.99       | high           | low    | 4      | namesilo                                                |
-| logistics.co     | resell    | $23,000    | $48.99        | medium         | high   | 9      | InternetX GmbH                                          |
-| out.industries   | premium   | $78.54     | $78.54        | high           | low    | 3      | namesilo                                                |
-| firm.boutique    | available | $6.99      | —             | high           | low    | 4      | name.com                                                |
-| ceo.co           | resell    | —          | —             | high           | high   | 3      | NameCheap, Inc.                                         |
-| tax.holdings     | premium   | $242       | $242          | high           | medium | 3      | namesilo                                                |
-| firm.ceo         | available | $10.19     | $109.99       | high           | low    | 4      | namesilo                                                |
-| tax.co           | resell    | —          | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
-| tax.industries   | premium   | $118.80    | $118.80       | high           | medium | 3      | namesilo                                                |
-| firm.cheap       | available | $9.99      | —             | high           | low    | 4      | name.com                                                |
-| tax.ltd          | resell    | —          | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| unit.gmbh         | available | $45.99    | $45.99        | medium         | low    | 4      | namesilo          |
+| job.world         | resell    | —         | —             | high           | low    | 3      | Porkbun LLC       |
+| deal.shop         | premium   | $12,500   | —             | medium         | low    | 4      | name.com          |
+| unit.ryukyu       | available | $22.98    | —             | high           | low    | 4      | namecheap         |
+| fund.travel       | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33 |
+| firm.shop         | premium   | $625      | —             | high           | low    | 4      | name.com          |
+| chief.ryukyu      | available | $22.98    | —             | high           | low    | 5      | namecheap         |
+| shop.house        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
+| plans.cyou        | premium   | $154.70   | $309.40       | medium         | low    | 5      | namecheap         |
+| panel.srl         | available | $31.99    | $31.99        | medium         | low    | 5      | namesilo          |
+| unit.bio          | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.   |
+| plans.exchange    | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo          |
+| plans.autos       | available | $1.99     | —             | medium         | low    | 5      | name.com          |
+| buyer.finance     | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
+| plans.financial   | premium   | $500      | —             | medium         | low    | 5      | name.com          |
+| plans.casa        | available | $2.19     | $12.99        | medium         | low    | 5      | namesilo          |
+| chain.house       | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
+| plans.investments | premium   | $242      | $242          | medium         | low    | 5      | namesilo          |
+| plans.enterprises | available | $5.99     | —             | medium         | low    | 5      | name.com          |
+| group.co          | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
