@@ -1,10 +1,10 @@
-# One-Word Business Domain Names Across 506 TLDs (270,198)
+# One-Word Business Domain Names Across 506 TLDs (205,201)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-270%2C198%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-205%2C201%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **270,198 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **205,201 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 270,198 domains · **Median ask:** $572.43 · **High-demand under $2,500:** 731
+**Public extract:** 1,000 rows · **Live catalog:** 205,201 domains · **Median ask:** $540.79 · **High-demand under $2,500:** 459
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/business`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| deal.loans         | available | $17.48    | $144.98       | medium         | low    | 4      | namecheap                                               |
-| executive.love     | resell    | $4.98     | $38.98        | medium         | low    | 9      | Chengdu West Dimension Digital Technology Co., LTD      |
-| deal.shop          | premium   | $12,500   | —             | medium         | low    | 4      | name.com                                                |
-| desk.kiwi          | available | $31.98    | $35.68        | medium         | low    | 4      | namecheap                                               |
-| buy.ltd            | resell    | —         | —             | medium         | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| firm.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                                |
-| unit.bargains      | available | $14.98    | $37.98        | medium         | low    | 4      | namecheap                                               |
-| deal.boutique      | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                         |
-| unit.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                                |
-| unit.engineering   | available | $10.48    | $85.98        | medium         | low    | 4      | namecheap                                               |
-| fund.travel        | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33                                       |
-| plans.cash         | premium   | $242      | $242          | medium         | low    | 5      | namesilo                                                |
-| unit.gmbh          | available | $45.99    | $45.99        | medium         | low    | 4      | namesilo                                                |
-| risk.vc            | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                                         |
-| plans.financial    | premium   | $500      | —             | medium         | low    | 5      | name.com                                                |
-| chief.press        | available | $4.99     | $86.99        | high           | low    | 5      | namesilo                                                |
-| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC                                  |
-| plans.limited      | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                |
-| chief.ryukyu       | available | $22.98    | —             | high           | low    | 5      | namecheap                                               |
-| buyer.finance      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                             |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
+| deal.loans          | available | $17.48    | $144.98       | medium         | low    | 4      | namecheap                 |
+| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC              |
+| film.shop           | premium   | $12,500   | —             | high           | low    | 4      | name.com                  |
+| firm.enterprises    | available | $5.99     | —             | high           | low    | 4      | name.com                  |
+| firm.business       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.           |
+| firm.co             | premium   | $5,175    | $5,175        | high           | low    | 4      | namesilo                  |
+| firm.gmbh           | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                  |
+| firm.company        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC               |
+| firm.llc            | premium   | $2,500    | —             | high           | low    | 4      | name.com                  |
+| firm.holdings       | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                  |
+| fund.network        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC               |
+| firm.ltda           | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo                  |
+| firm.industries     | available | $17.49    | —             | high           | low    | 4      | name.com                  |
+| brand.coupons       | resell    | —         | —             | medium         | medium | 5      | Sav.com, LLC - 7          |
+| team.page           | premium   | $623.75   | —             | high           | medium | 4      | name.com                  |
+| firm.limited        | available | $14.99    | —             | high           | low    | 4      | name.com                  |
+| teams.management    | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC              |
+| teams.men           | premium   | $437.50   | —             | medium         | low    | 5      | name.com                  |
+| firm.ryukyu         | available | $22.98    | —             | high           | low    | 4      | namecheap                 |
+| trade.cash          | resell    | —         | —             | high           | medium | 5      | Go Australia Domains, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 270,198 live domains                       |
+| 1,000-row public sample | 205,201 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 731 high-demand names under $2,500         |
+| Basic exported fields   | 459 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
