@@ -1,10 +1,10 @@
-# One-Word Business Domain Names Across 506 TLDs (213,236)
+# One-Word Business Domain Names Across 506 TLDs (213,926)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-213%2C236%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-213%2C926%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **213,236 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **213,926 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 213,236 domains · **Median ask:** $535.66 · **High-demand under $2,500:** 436
+**Public extract:** 1,000 rows · **Live catalog:** 213,926 domains · **Median ask:** $534.77 · **High-demand under $2,500:** 436
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/business`
@@ -75,13 +75,13 @@ print(df.head())
 | firm.autos          | premium   | $812.50   | —             | high           | low    | 4      | name.com           |
 | firm.auto           | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo           |
 | business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC       |
-| firm.casa           | premium   | $47.20    | $11.80        | high           | low    | 4      | namesilo           |
+| firm.build          | premium   | $1,875    | —             | high           | low    | 4      | name.com           |
 | firm.bargains       | available | $21.99    | —             | high           | low    | 4      | name.com           |
 | firm.agency         | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 17  |
-| firm.cfd            | premium   | $18.88    | $37.76        | high           | low    | 4      | namesilo           |
+| firm.casa           | premium   | $47.20    | $11.80        | high           | low    | 4      | namesilo           |
 | firm.blackfriday    | available | $114.99   | $114.99       | high           | low    | 4      | namesilo           |
 | firm.asia           | resell    | —         | —             | high           | low    | 4      | Porkbun LLC        |
-| firm.co             | premium   | $4,875    | $4,875        | high           | low    | 4      | namecheap          |
+| firm.cfd            | premium   | $18.88    | $37.76        | high           | low    | 4      | namesilo           |
 | firm.boutique       | available | $6.99     | —             | high           | low    | 4      | name.com           |
 | firm.business       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.    |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 213,236 live domains                       |
+| 1,000-row public sample | 213,926 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 436 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
