@@ -16,7 +16,7 @@ These are one-word domain names tied to business, spanning 506 TLDs and 234,460 
 
 **Public extract:** 1,000 rows · **Live catalog:** 217,647 domains · **Median ask:** $513.02 · **High-demand under $2,500:** 327
 
-**Last updated:** 2026-09-22
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/sector/business`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| firm.gmbh           | available | $45.99    | $45.99        | medium         | low    | 4      | namesilo         |
-| business.apartments | resell    | $72.98    | —             | medium         | low    | 8      | Sav.com, LLC     |
-| firm.co             | premium   | $5,175    | $5,175        | medium         | low    | 4      | namesilo         |
-| firm.holdings       | available | $67.98    | $81.98        | medium         | low    | 4      | namecheap        |
-| enterprise.business | resell    | $42.90    | $42.90        | medium         | low    | 10     | GoDaddy.com, LLC |
-| firm.llc            | premium   | $2,660    | $2,660        | medium         | low    | 4      | namesilo         |
-| firm.industries     | available | $45.99    | $45.99        | medium         | low    | 4      | namesilo         |
-| firm.business       | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
-| firm.ltda           | premium   | $56.64    | $33.04        | medium         | low    | 4      | namesilo         |
-| firm.limited        | available | $37.98    | $39.98        | medium         | low    | 4      | namecheap        |
-| firm.company        | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC      |
-| firm.news           | premium   | $130      | $260          | medium         | low    | 4      | namecheap        |
-| firm.sarl           | available | $6.98     | $8.98         | medium         | low    | 4      | namecheap        |
-| firm.org            | resell    | —         | —             | medium         | low    | 4      | —                |
-| plan.investments    | premium   | $242      | $242          | medium         | low    | 4      | namesilo         |
-| plan.adult          | available | $69.98    | $166.98       | low            | low    | 4      | namecheap        |
-| plan.money          | resell    | —         | —             | medium         | low    | 4      | —                |
-| group.shop          | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo         |
-| task.ryukyu         | available | $22.98    | —             | high           | low    | 4      | namecheap        |
-| sales.chat          | resell    | —         | —             | high           | medium | 5      | Porkbun LLC      |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| deal.loans      | available | $20.99    | $116.99       | low            | low    | 4      | namesilo                                            |
+| hub.ceo         | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                     |
+| logo.red        | premium   | $394.44   | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| deal.shoes      | available | $64.99    | $64.99        | low            | low    | 4      | namesilo                                            |
+| new.fashion     | resell    | —         | —             | high           | medium | 3      | Porkbun                                             |
+| plan.archi      | premium   | $640      | $640          | medium         | low    | 4      | namesilo                                            |
+| firm.ryukyu     | available | $17.98    | $22.98        | medium         | low    | 4      | namecheap                                           |
+| deal.boutique   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
+| plan.democrat   | premium   | $118.80   | $118.80       | low            | low    | 4      | namesilo                                            |
+| plan.airforce   | available | $103.99   | $103.99       | medium         | low    | 4      | namesilo                                            |
+| firm.tv         | resell    | —         | —             | medium         | low    | 4      | Dynadot8 LLC                                        |
+| plan.eco        | premium   | $4,535.05 | $74.75        | low            | low    | 4      | namecheap                                           |
+| plan.boutique   | available | $2.98     | $41.98        | low            | low    | 4      | namecheap                                           |
+| plan.band       | resell    | —         | —             | low            | low    | 4      | —                                                   |
+| plan.fashion    | premium   | $47.20    | $29.50        | medium         | low    | 4      | namesilo                                            |
+| plan.creditcard | available | $144.99   | $144.99       | low            | low    | 4      | namesilo                                            |
+| plan.care       | resell    | —         | —             | low            | low    | 4      | —                                                   |
+| plan.foo        | premium   | $648.70   | $648.70       | low            | low    | 4      | namecheap                                           |
+| plan.desi       | available | $19.98    | $22.98        | low            | low    | 4      | namecheap                                           |
+| plan.cc         | resell    | —         | —             | low            | low    | 4      | —                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
