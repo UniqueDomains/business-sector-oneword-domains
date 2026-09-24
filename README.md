@@ -1,10 +1,10 @@
-# One-Word Business Domain Names Across 506 TLDs (217,647)
+# One-Word Business Domain Names Across 506 TLDs (143,069)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-217%2C647%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-143%2C069%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **217,647 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **143,069 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 217,647 domains · **Median ask:** $513.02 · **High-demand under $2,500:** 327
+**Public extract:** 1,000 rows · **Live catalog:** 143,069 domains · **Median ask:** $495.95 · **High-demand under $2,500:** 212
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/business`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| deal.loans      | available | $20.99    | $116.99       | low            | low    | 4      | namesilo                                            |
-| hub.ceo         | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                     |
-| logo.red        | premium   | $394.44   | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| deal.shoes      | available | $64.99    | $64.99        | low            | low    | 4      | namesilo                                            |
-| new.fashion     | resell    | —         | —             | high           | medium | 3      | Porkbun                                             |
-| plan.archi      | premium   | $640      | $640          | medium         | low    | 4      | namesilo                                            |
-| firm.ryukyu     | available | $17.98    | $22.98        | medium         | low    | 4      | namecheap                                           |
-| deal.boutique   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
-| plan.democrat   | premium   | $118.80   | $118.80       | low            | low    | 4      | namesilo                                            |
-| plan.airforce   | available | $103.99   | $103.99       | medium         | low    | 4      | namesilo                                            |
-| firm.tv         | resell    | —         | —             | medium         | low    | 4      | Dynadot8 LLC                                        |
-| plan.eco        | premium   | $4,535.05 | $74.75        | low            | low    | 4      | namecheap                                           |
-| plan.boutique   | available | $2.98     | $41.98        | low            | low    | 4      | namecheap                                           |
-| plan.band       | resell    | —         | —             | low            | low    | 4      | —                                                   |
-| plan.fashion    | premium   | $47.20    | $29.50        | medium         | low    | 4      | namesilo                                            |
-| plan.creditcard | available | $144.99   | $144.99       | low            | low    | 4      | namesilo                                            |
-| plan.care       | resell    | —         | —             | low            | low    | 4      | —                                                   |
-| plan.foo        | premium   | $648.70   | $648.70       | low            | low    | 4      | namecheap                                           |
-| plan.desi       | available | $19.98    | $22.98        | low            | low    | 4      | namecheap                                           |
-| plan.cc         | resell    | —         | —             | low            | low    | 4      | —                                                   |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| organization.business | resell    | —         | —             | high           | low    | 12     | NameSilo, LLC    |
+| desk.lgbt             | available | $11.98    | $93.98        | high           | low    | 4      | namecheap        |
+| chain.immo            | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| sales.industries      | premium   | $85.80    | $85.80        | high           | medium | 5      | namecheap        |
+| unit.gmbh             | available | $45.99    | $45.99        | high           | low    | 4      | namesilo         |
+| group.co              | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| budget.flights        | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo         |
+| boards.reviews        | available | $62.99    | $62.99        | high           | low    | 6      | namesilo         |
+| solid.co              | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
+| economy.forum         | premium   | $116      | $116          | high           | low    | 7      | namesilo         |
+| stable.ryukyu         | available | $24.99    | —             | high           | low    | 6      | name.com         |
+| trade.so              | resell    | —         | —             | high           | medium | 5      | NameCheap        |
+| economy.guide         | premium   | $38.94    | $38.94        | high           | low    | 7      | namesilo         |
+| clients.im            | available | $12.98    | —             | high           | low    | 7      | namecheap        |
+| budget.top            | resell    | —         | —             | high           | low    | 6      | 阿里云计算有限公司        |
+| economy.llc           | premium   | $640      | $640          | high           | low    | 7      | namesilo         |
+| economy.cool          | available | $5.98     | $50.98        | high           | low    | 7      | namecheap        |
+| income.guru           | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC     |
+| economy.ltda          | premium   | $56.64    | $33.04        | high           | low    | 7      | namesilo         |
+| economy.enterprises   | available | $9.48     | $47.98        | high           | low    | 7      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 217,647 live domains                       |
+| 1,000-row public sample | 143,069 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 327 high-demand names under $2,500         |
+| Basic exported fields   | 212 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
