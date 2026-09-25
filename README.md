@@ -1,10 +1,10 @@
-# One-Word Business Domain Names Across 506 TLDs (143,069)
+# One-Word Business Domain Names Across 506 TLDs (130,097)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-143%2C069%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-130%2C097%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **143,069 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **130,097 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 143,069 domains · **Median ask:** $495.95 · **High-demand under $2,500:** 212
+**Public extract:** 1,000 rows · **Live catalog:** 130,097 domains · **Median ask:** $499.06 · **High-demand under $2,500:** 192
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/business`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| organization.business | resell    | —         | —             | high           | low    | 12     | NameSilo, LLC    |
-| desk.lgbt             | available | $11.98    | $93.98        | high           | low    | 4      | namecheap        |
-| chain.immo            | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| sales.industries      | premium   | $85.80    | $85.80        | high           | medium | 5      | namecheap        |
-| unit.gmbh             | available | $45.99    | $45.99        | high           | low    | 4      | namesilo         |
-| group.co              | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| budget.flights        | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo         |
-| boards.reviews        | available | $62.99    | $62.99        | high           | low    | 6      | namesilo         |
-| solid.co              | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
-| economy.forum         | premium   | $116      | $116          | high           | low    | 7      | namesilo         |
-| stable.ryukyu         | available | $24.99    | —             | high           | low    | 6      | name.com         |
-| trade.so              | resell    | —         | —             | high           | medium | 5      | NameCheap        |
-| economy.guide         | premium   | $38.94    | $38.94        | high           | low    | 7      | namesilo         |
-| clients.im            | available | $12.98    | —             | high           | low    | 7      | namecheap        |
-| budget.top            | resell    | —         | —             | high           | low    | 6      | 阿里云计算有限公司        |
-| economy.llc           | premium   | $640      | $640          | high           | low    | 7      | namesilo         |
-| economy.cool          | available | $5.98     | $50.98        | high           | low    | 7      | namecheap        |
-| income.guru           | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC     |
-| economy.ltda          | premium   | $56.64    | $33.04        | high           | low    | 7      | namesilo         |
-| economy.enterprises   | available | $9.48     | $47.98        | high           | low    | 7      | namecheap        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| customer.lighting | available | $14.99    | —             | high           | low    | 8      | name.com          |
+| sales.accountants | available | $43.99    | —             | high           | medium | 5      | name.com          |
+| sale.co           | resell    | —         | —             | high           | low    | 4      | InternetX GmbH    |
+| group.inc         | premium   | $2,015    | $2,600        | high           | low    | 5      | namecheap         |
+| sales.financial   | available | $29.99    | —             | high           | medium | 5      | name.com          |
+| sale.plus         | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| group.industries  | premium   | $260      | $260          | high           | low    | 5      | namecheap         |
+| sales.forex       | available | $19.99    | —             | high           | medium | 5      | name.com          |
+| firms.co          | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
+| group.ltda        | premium   | $66.30    | $66.30        | high           | low    | 5      | namecheap         |
+| sales.gmbh        | available | $47.99    | —             | high           | medium | 5      | name.com          |
+| group.business    | resell    | —         | —             | high           | low    | 5      | 1API GmbH         |
+| group.sarl        | premium   | $520      | $520          | high           | low    | 5      | namecheap         |
+| sales.holdings    | available | $80.99    | —             | high           | medium | 5      | name.com          |
+| group.company     | resell    | —         | —             | high           | low    | 5      | Name.com, Inc.    |
+| group.shop        | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo          |
+| sales.loans       | available | $19.99    | —             | high           | medium | 5      | name.com          |
+| group.limited     | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 33 |
+| sales.accountant  | premium   | $13,000   | $780          | high           | medium | 5      | namecheap         |
+| sales.sarl        | available | $8.98     | —             | high           | medium | 5      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 143,069 live domains                       |
+| 1,000-row public sample | 130,097 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 212 high-demand names under $2,500         |
+| Basic exported fields   | 192 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
