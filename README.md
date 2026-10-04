@@ -1,10 +1,10 @@
-# One-Word Business Domain Names Across 506 TLDs (348,602)
+# One-Word Business Domain Names Across 506 TLDs (353,070)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-348%2C602%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-353%2C070%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **348,602 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **353,070 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 348,602 domains · **Median ask:** $324.83 · **High-demand under $2,500:** 605
+**Public extract:** 1,000 rows · **Live catalog:** 353,070 domains · **Median ask:** $320.68 · **High-demand under $2,500:** 597
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/business`
@@ -25,7 +25,7 @@ These are one-word domain names tied to business, spanning 506 TLDs and 234,460 
 <p align="center">
   <a href="https://unique.domains/domains/sector/business?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./business.csv">CSV</a> / <a href="./business.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| firm.apartments     | available | $45.74    | $45.74        | high           | low    | 4      | spaceship        |
-| firm.marketing      | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| firm.blog           | premium   | $160      | $640          | high           | low    | 4      | namesilo         |
-| firm.auto           | available | $2,060.25 | $2,064.19     | high           | low    | 4      | porkbun          |
-| trade.fyi           | resell    | $82.50    | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| firm.build          | premium   | $1,552.70 | $1,552.70     | high           | low    | 4      | spaceship        |
-| firm.bargains       | available | $13.14    | $23.94        | high           | low    | 4      | spaceship        |
-| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
-| firm.co             | premium   | $3,750    | $4,125        | high           | low    | 4      | unstoppable      |
-| firm.boutique       | available | $2.27     | $26.08        | high           | low    | 4      | spaceship        |
-| enterprise.business | resell    | $42.90    | $42.90        | high           | medium | 10     | GoDaddy.com, LLC |
-| firm.esq            | premium   | $359.68   | $359.68       | high           | low    | 4      | porkbun          |
-| firm.charity        | available | $14.99    | $23.99        | high           | low    | 4      | namesilo         |
-| firm.business       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
-| firm.host           | premium   | $650      | $1,300        | high           | low    | 4      | namecheap        |
-| firm.church         | available | $14.99    | $58.99        | high           | low    | 4      | namesilo         |
-| firm.capital        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
-| firm.investments    | premium   | $200.50   | $207.20       | high           | low    | 4      | unstoppable      |
-| firm.contractors    | available | $35.49    | $35.49        | high           | low    | 4      | namesilo         |
-| firm.care           | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| firm.beer           | available | $25.20    | $25.20        | high           | low    | 4      | cloudflare                                          |
+| trade.fyi           | resell    | $82.50    | —             | high           | medium | 5      | GoDaddy.com, LLC                                    |
+| firm.accountant     | premium   | $650      | $84.50        | high           | low    | 4      | namecheap                                           |
+| firm.black          | available | $27.99    | $64.99        | high           | low    | 4      | namesilo                                            |
+| trade.online        | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc                                  |
+| firm.bio            | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
+| firm.broker         | available | $10.55    | $29.18        | high           | low    | 4      | spaceship                                           |
+| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC                                        |
+| firm.co             | premium   | $3,750    | $4,125        | high           | low    | 4      | unstoppable                                         |
+| firm.car            | available | $1,863.20 | $2,064.20     | high           | low    | 4      | spaceship                                           |
+| organization.help   | resell    | $1.99     | —             | high           | low    | 12     | Chengdu West Dimension Digital Technology Co., Ltd. |
+| firm.cricket        | premium   | $382.61   | $55.11        | high           | low    | 4      | porkbun                                             |
+| firm.codes          | available | $3.98     | $92.98        | high           | low    | 4      | namecheap                                           |
+| firm.business       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
+| firm.cyou           | premium   | $310.70   | $621.20       | high           | low    | 4      | spaceship                                           |
+| firm.coffee         | available | $33.20    | $33.20        | high           | low    | 4      | cloudflare                                          |
+| firm.capital        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                         |
+| firm.diy            | premium   | $302.50   | $302.50       | high           | low    | 4      | namesilo                                            |
+| firm.contractors    | available | $35.49    | $35.49        | high           | low    | 4      | namesilo                                            |
+| firm.onl            | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 348,602 live domains                                 |
+| 1,000-row public sample | 353,070 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 605 high-demand names under $2,500                   |
+| Basic exported fields   | 597 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/business?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_business_sector_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
