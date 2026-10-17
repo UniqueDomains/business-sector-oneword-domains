@@ -1,10 +1,10 @@
-# One-Word Business Domain Names Across 506 TLDs (393,691)
+# One-Word Business Domain Names Across 506 TLDs (397,781)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-393%2C691%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-397%2C781%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **393,691 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **397,781 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 393,691 domains · **Median ask:** $292.19 · **High-demand under $2,500:** 621
+**Public extract:** 1,000 rows · **Live catalog:** 397,781 domains · **Median ask:** $290.73 · **High-demand under $2,500:** 533
 
 **Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/business`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| firm.eu             | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
-| firm.bayern         | available | $34.99    | $34.99        | high           | low    | 4      | namesilo                                                           |
-| firm.marketing      | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
-| firm.boo            | premium   | $257.92   | $257.92       | high           | low    | 4      | spaceship                                                          |
-| firm.blackfriday    | available | $103.70   | $103.70       | high           | low    | 4      | spaceship                                                          |
-| trade.pink          | resell    | $31.48    | —             | high           | medium | 5      | GoDaddy.com, LLC                                                   |
-| firm.co             | premium   | $5,175    | $5,175        | high           | low    | 4      | namesilo                                                           |
-| firm.cab            | available | $26.08    | $26.08        | high           | low    | 4      | spaceship                                                          |
-| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC                                                       |
-| firm.forsale        | premium   | $102.67   | $102.67       | high           | low    | 4      | spaceship                                                          |
-| firm.cat            | available | $18.19    | $24.19        | high           | low    | 4      | dynadot                                                            |
-| enterprise.business | resell    | $42.90    | $42.90        | high           | medium | 10     | GoDaddy.com, LLC                                                   |
-| firm.forum          | premium   | $103.70   | $103.70       | high           | low    | 4      | spaceship                                                          |
-| firm.catering       | available | $31.25    | $31.25        | high           | low    | 4      | spaceship                                                          |
-| enterprise.support  | resell    | $38.94    | $38.94        | high           | medium | 10     | GoDaddy.com, LLC                                                   |
-| firm.free           | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                                           |
-| firm.cheap          | available | $8.50     | $36.49        | high           | low    | 4      | unstoppable                                                        |
-| firm.business       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                                    |
-| firm.kids           | premium   | $51.95    | $18.83        | high           | low    | 4      | spaceship                                                          |
-| firm.clothing       | available | $26.08    | $26.08        | high           | low    | 4      | spaceship                                                          |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| firm.barcelona      | available | $25.04    | $25.04        | high           | low    | 4      | spaceship        |
+| trade.pink          | resell    | $31.48    | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| firm.dad            | premium   | $257.92   | $257.92       | high           | low    | 4      | spaceship        |
+| firm.bike           | available | $12.99    | $38.99        | high           | low    | 4      | namesilo         |
+| business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC     |
+| firm.deal           | premium   | $103.70   | $103.70       | high           | low    | 4      | spaceship        |
+| firm.cars           | available | $2,140.22 | $2,140.22     | high           | low    | 4      | dynadot          |
+| enterprise.business | resell    | $42.90    | $42.90        | high           | medium | 10     | GoDaddy.com, LLC |
+| firm.dealer         | premium   | $2,140.22 | $2,140.22     | high           | low    | 4      | dynadot          |
+| firm.computer       | available | $23.99    | $38.99        | high           | low    | 4      | namesilo         |
+| enterprise.support  | resell    | $38.94    | $38.94        | high           | medium | 10     | GoDaddy.com, LLC |
+| firm.download       | premium   | $11,000   | $110          | high           | low    | 4      | dynadot          |
+| firm.condos         | available | $58.99    | $58.99        | high           | low    | 4      | namesilo         |
+| organization.today  | resell    | $2.27     | $22.97        | high           | low    | 12     | Spaceship, Inc.  |
+| firm.forex          | premium   | $1,000.50 | $1,035.20     | high           | low    | 4      | unstoppable      |
+| firm.credit         | available | $11.49    | $104.99       | high           | low    | 4      | namesilo         |
+| firm.biz            | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| firm.fyi            | premium   | $16.50    | $16.50        | high           | low    | 4      | dynadot          |
+| firm.cx             | available | $18.99    | $18.99        | high           | low    | 4      | namesilo         |
+| firm.cam            | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 393,691 live domains                                 |
+| 1,000-row public sample | 397,781 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 621 high-demand names under $2,500                   |
+| Basic exported fields   | 533 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
