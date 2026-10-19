@@ -1,10 +1,10 @@
-# One-Word Business Domain Names Across 506 TLDs (401,224)
+# One-Word Business Domain Names Across 506 TLDs (401,961)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-401%2C224%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-401%2C961%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These are one-word domain names tied to business, spanning 506 TLDs and 234,460 domains in total. The median ask across this set is roughly $662. Updated daily, it includes extensions like .club, .markets, .gmbh, and .lighting.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **401,224 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **401,961 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 401,224 domains · **Median ask:** $288.86 · **High-demand under $2,500:** 499
+**Public extract:** 1,000 rows · **Live catalog:** 401,961 domains · **Median ask:** $289.07 · **High-demand under $2,500:** 480
 
-**Last updated:** 2026-10-18
+**Last updated:** 2026-10-19
 **Canonical page:** `https://unique.domains/domains/sector/business`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| firm.berlin         | available | $79.98    | $89.98        | high           | low    | 4      | namecheap                                           |
+| firm.airforce       | available | $95.45    | $95.45        | high           | low    | 4      | dynadot                                             |
 | business.apartments | resell    | $72.98    | —             | high           | medium | 8      | Sav.com, LLC                                        |
-| firm.cfd            | premium   | $384      | $768          | high           | low    | 4      | namesilo                                            |
-| firm.coupons        | available | $42.20    | $42.20        | high           | low    | 4      | cloudflare                                          |
+| firm.co             | premium   | $5,175    | $5,175        | high           | low    | 4      | namesilo                                            |
+| firm.audio          | available | $100.20   | $100.20       | high           | low    | 4      | cloudflare                                          |
 | enterprise.business | resell    | $42.90    | $42.90        | high           | medium | 10     | GoDaddy.com, LLC                                    |
-| firm.fast           | premium   | $258.95   | $258.95       | high           | low    | 4      | spaceship                                           |
-| firm.cx             | available | $18.99    | $18.99        | high           | low    | 4      | namesilo                                            |
+| firm.fashion        | premium   | $47.20    | $29.50        | high           | low    | 4      | namesilo                                            |
+| firm.berlin         | available | $79.98    | $89.98        | high           | low    | 4      | namecheap                                           |
 | enterprise.support  | resell    | $38.94    | $38.94        | high           | medium | 10     | GoDaddy.com, LLC                                    |
-| firm.food           | premium   | $302.50   | $302.50       | high           | low    | 4      | namesilo                                            |
-| firm.deals          | available | $31.25    | $31.25        | high           | low    | 4      | spaceship                                           |
+| firm.fast           | premium   | $258.95   | $258.95       | high           | low    | 4      | spaceship                                           |
+| firm.cleaning       | available | $60.23    | $60.23        | high           | low    | 4      | spaceship                                           |
 | organization.help   | resell    | $1.99     | —             | high           | low    | 12     | Chengdu West Dimension Digital Technology Co., Ltd. |
-| firm.hot            | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                            |
-| firm.dentist        | available | $51.95    | $51.95        | high           | low    | 4      | spaceship                                           |
+| firm.fitness        | premium   | $242      | $242          | high           | low    | 4      | namesilo                                            |
+| firm.coupons        | available | $42.20    | $42.20        | high           | low    | 4      | cloudflare                                          |
 | firm.biz            | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
-| firm.living         | premium   | $275      | $275          | high           | low    | 4      | dynadot                                             |
-| firm.diet           | available | $100.20   | $100.20       | high           | low    | 4      | cloudflare                                          |
+| firm.hot            | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                            |
+| firm.deals          | available | $31.25    | $31.25        | high           | low    | 4      | spaceship                                           |
 | firm.company        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                         |
-| firm.llc            | premium   | $2,070.20 | $2,070.20     | high           | low    | 4      | spaceship                                           |
-| firm.discount       | available | $30.99    | $30.99        | high           | low    | 4      | namesilo                                            |
+| firm.living         | premium   | $275      | $275          | high           | low    | 4      | dynadot                                             |
+| firm.dentist        | available | $51.95    | $51.95        | high           | low    | 4      | spaceship                                           |
 | firm.gg             | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc (https://www.spaceship.com)          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 401,224 live domains                                 |
+| 1,000-row public sample | 401,961 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 499 high-demand names under $2,500                   |
+| Basic exported fields   | 480 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-10-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Business Domain Names Across 506 TLDs*. Version 2026-10-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
